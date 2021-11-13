@@ -1,0 +1,136 @@
+ManifestFileVersion: 0
+CRC: 1863341436
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0df6489a94cf2a4384274cdea8a3d7b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84d4d47b00b4d0ac4bc9de87207d613b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2220fa4321794f84a82f6e729537f659, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21b8232d6b8d6c24e83586eca9a6e451, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 703c099691f4c8c4dae3fb88baf57d2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 086a5bea511b0ad4fb31e98dafc3bf86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 405fef757a0aaa0469e2abeac7c53683, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2300467fa570fd4ca1688b486e9104d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb4e796360a7d054ba08284c6c51e7fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e708e42f05b832e48b148e9ea1bd3a3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e6240a4b363da40a09c942282e7bb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 829105865dba36441bf29deeb84e3f87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4b7d0dd1ae8d2a47abad7e3da57f03d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5427f3d52105b1e4d9fa86dacf59279b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e6810e889a29c84d98d1a432821408d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcddd3201e0451346a446a3cb5128204, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/Wither_hurt1.ogg
+- Assets/Texture2D/particle/explosion/explosion_1.png
+- Assets/Texture2D/particle/explosion/explosion_11.png
+- Assets/Model/wither.fbx
+- Assets/Model/WitherMat.mat
+- Assets/Texture2D/particle/explosion/explosion_14.png
+- Assets/Model/gate.fbx
+- Assets/Texture2D/wither_armor_black.png
+- Assets/Texture2D/particle/explosion/explosion_12.png
+- Assets/Texture2D/particle/soul/soul_1.png
+- Assets/Texture2D/particle/explosion/explosion_6.png
+- Assets/Texture2D/particle/explosion/explosion_5.png
+- Assets/WitherPrefab.prefab
+- Assets/Audio/Wither_idle3.ogg
+- Assets/ParticlesMat.mat
+- Assets/Texture2D/particle/soul/soul_10.png
+- Assets/Texture2D/blocks/bedrock.png
+- Assets/Audio/Wither_spawn.ogg
+- Assets/Texture2D/particle/soul/soul_2.png
+- Assets/Texture2D/blocks/soul_sand.png
+- Assets/Audio/Wither_idle4.ogg
+- Assets/Texture2D/particle/soul/soul_8.png
+- Assets/Texture2D/particle/explosion/explosion_10.png
+- Assets/Texture2D/particle/soul/soul_6.png
+- Assets/WitherArrow_Black.prefab
+- Assets/Model/WitherBrust.mat
+- Assets/Texture2D/wither.png
+- Assets/Texture2D/particle/soul/soul_3.png
+- Assets/Texture2D/particle/explosion/explosion_3.png
+- Assets/Texture2D/particle/soul/soul_5.png
+- Assets/Texture2D/particle/explosion/explosion_15.png
+- Assets/Audio/Wither_idle1.ogg
+- Assets/Texture2D/particle/explosion/explosion_0.png
+- Assets/Texture2D/particle/soul/soul_4.png
+- Assets/Texture2D/particle/soul/soul_fire_flame.png
+- Assets/Texture2D/wither_invulnerable.png
+- Assets/Texture2D/blocks.spriteatlas
+- Assets/Audio/Wither_death.ogg
+- Assets/Model/witherArmorBlack.fbx
+- Assets/Texture2D/particle/explosion/explosion_7.png
+- Assets/Texture2D/particle.spriteatlas
+- Assets/Texture2D/particle/soul/soul_0.png
+- Assets/Texture2D/particle/explosion/explosion_13.png
+- Assets/Audio/Wither_shoot.ogg
+- Assets/Texture2D/particle/soul/soul_9.png
+- Assets/Texture2D/particle/soul/soul_7.png
+- Assets/Model/nnp.mat
+- Assets/Audio/Explosion1.ogg
+- Assets/Texture2D/particle/explosion/explosion_9.png
+- Assets/Model/witherArmorMat.mat
+- Assets/Audio/Wither_hurt2.ogg
+- Assets/Texture2D/particle/explosion/explosion_2.png
+- Assets/Model/NoLight.shader
+- Assets/Exp.prefab
+- Assets/Model/Obb.mat
+- Assets/Audio/Wither_idle2.ogg
+- Assets/Texture2D/particle/explosion/explosion_8.png
+- Assets/Texture2D/particle/explosion/explosion_4.png
+Dependencies: []

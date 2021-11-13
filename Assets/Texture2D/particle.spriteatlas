@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: particle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 231c16042cd5d1f43849b70931495538, type: 3}
+    totalSpriteSurfaceArea: 19264
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 76e56f80058f4824a9ff7688cbb186f2, type: 3}
+  - {fileID: 21300000, guid: eda353b0f3fe4364b97750af512360e9, type: 3}
+  - {fileID: 21300000, guid: d8f962f043e675e4a90403d8dd27535d, type: 3}
+  - {fileID: 21300000, guid: 9a433621d4aae1743a82cdf5d2c85870, type: 3}
+  - {fileID: 21300000, guid: 8bbef5e125426e242aaf543eb3a4ca49, type: 3}
+  - {fileID: 21300000, guid: 6d61cd52053237245b07172c30804c9b, type: 3}
+  - {fileID: 21300000, guid: 28a7a362ac1588a478194855b79e3fb3, type: 3}
+  - {fileID: 21300000, guid: fe16e472e0797034a9147433c9efbb99, type: 3}
+  - {fileID: 21300000, guid: 9d8280c2f891b9d429f4dbabeb909a16, type: 3}
+  - {fileID: 21300000, guid: 66a4dbc2a8dfdd84cbce0a2ffc0af180, type: 3}
+  - {fileID: 21300000, guid: 21aa87f2e01783647a7248df5dbaf210, type: 3}
+  - {fileID: 21300000, guid: 39552533deeb7b14cad459c27aa50bcc, type: 3}
+  - {fileID: 21300000, guid: 7242358341cb3f147aec57c55e13b2f8, type: 3}
+  - {fileID: 21300000, guid: f51995340592a0e49a6becd7686b8802, type: 3}
+  - {fileID: 21300000, guid: 9b52b3c41defde6428c9eeaffd75115e, type: 3}
+  - {fileID: 21300000, guid: 19c8e6a566d5f704d8ed94153f04d932, type: 3}
+  - {fileID: 21300000, guid: a5db91d57dc8c5b458e7e60ce6f40213, type: 3}
+  - {fileID: 21300000, guid: 9429e31650cad1e47af0efb71666a230, type: 3}
+  - {fileID: 21300000, guid: 26cff766f8b7b714c81f5080bf88052f, type: 3}
+  - {fileID: 21300000, guid: bf4cd427d4d12914fbd9c7bdf600490c, type: 3}
+  - {fileID: 21300000, guid: e4a98c77a72db2747b14853e4112522f, type: 3}
+  - {fileID: 21300000, guid: fa36ba4836b48c546adcd6b0c17d74a4, type: 3}
+  - {fileID: 21300000, guid: 287109c8985a7674da3081a7c9aaa47e, type: 3}
+  - {fileID: 21300000, guid: 8d76b7b9b29493a4bb32bce8c7a95bf1, type: 3}
+  - {fileID: 21300000, guid: 03a0b2ca4abcb284dad8e287c4d1f084, type: 3}
+  - {fileID: 21300000, guid: d5d2647b23fba284fae47efed50cc724, type: 3}
+  - {fileID: 21300000, guid: 925567eeb09c6844db2f9dcb34cf16e3, type: 3}
+  - {fileID: 21300000, guid: eb19a8af048e09942b8943db1b807fb1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - soul_3
+  - soul_1
+  - soul_5
+  - soul_7
+  - soul_4
+  - explosion_3
+  - explosion_1
+  - explosion_11
+  - explosion_10
+  - explosion_9
+  - soul_8
+  - soul_6
+  - explosion_4
+  - explosion_0
+  - explosion_8
+  - soul_2
+  - explosion_12
+  - explosion_13
+  - explosion_15
+  - explosion_7
+  - soul_9
+  - explosion_14
+  - soul_10
+  - soul_fire_flame
+  - explosion_6
+  - soul_0
+  - explosion_5
+  - explosion_2
+  m_RenderDataMap: {}
+  m_Tag: particle
+  m_IsVariant: 0
